@@ -61,6 +61,7 @@ An important aspect of this project is the **multi-stage validation strategy**. 
 This combination of SAR-based indicators with optical validation—both medium and high resolution—ensures that the workflow remains **physically interpretable and empirically grounded**, rather than purely algorithmic.
 
 
+
 ## What the Method Actually Does
 
 The central methodological idea of LT-CCD can be summarized in one sentence: **damage is inferred as an anomalous loss of coherence relative to normal long-term behavior**. Instead of taking one pre-event coherence image and one post-event coherence image and subtracting them, the method first builds a historical reference model from multiple baseline rasters.
